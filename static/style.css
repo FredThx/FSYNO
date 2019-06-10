@@ -1,10 +1,11 @@
 #graphe{
 	position: absolute;
-	left: 200px;
-	right: 30px;
-	top: 100px;
+	left: 5%;
+	right: 5%;
+	top: 30%;
 	bottom: 20px;
 }
+
 html {
   font-family: sans-serif;
   background: #eee;
