@@ -20,10 +20,6 @@ Datas are stored in a json file : ds.json
 A linux environment with python 3 installed.
 (test on raspian and ubuntu on windows 10)
 
-```
-Give examples
-```
-
 ### Installing
 
 #### stat_upload.py
@@ -65,11 +61,15 @@ sudo systemctl start fsyno.service
 ## Built With
 
 * [synopy](https://github.com/graingert/synopy) - Python library for the Synology Download Station API
-* [Flask](http://flask.pocoo.org/) - Flask - web development, one drop at a time
+* [Flask](http://flask.pocoo.org/) - web development, one drop at a time
 
-## Authors
+## Author
 
 * FredThx
+
+## Thanks
+
+* [Thomas Grainger](https://github.com/graingert) - for synopy
 
 ## License
 
