@@ -2,6 +2,10 @@
 
 Synology DownloadStation upload analyser
 
+![/](https://github.com/FredThx/FSYNO/blob/master/images/index.PNG)
+![/task_id](https://github.com/FredThx/FSYNO/blob/master/images/file.PNG)
+![/total](https://github.com/FredThx/FSYNO/blob/master/images/total.PNG)
+
 ## Getting Started
 
 These instructions explain how to install the uploader analyser.
