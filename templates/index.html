@@ -1,0 +1,16 @@
+<!doctype html>
+<title>Statistique pour DownloadStation</title>
+<link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+{% if datas %}
+  <h1>Statistique pour DownloadStation</h1>
+  <h2>Total</h2>
+  <a href="/total">Historique total</a>
+  <h2>Liste des transferts en cours:</h2>
+  {% for id, data in iteritems(datas) %}
+  <p>
+    <a href="/task/{{ id }}">{{ data.title }}</a>
+  </p>
+  {% endfor %}
+{% else %}
+  <p>No datas!!</p>
+{% endif %}

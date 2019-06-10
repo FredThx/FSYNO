@@ -1,0 +1,2119 @@
+{
+    "dbid_1352": {
+        "status": "seeding", 
+        "username": "admin", 
+        "additional": {
+            "transfer": {
+                "speed_download": 0, 
+                "speed_upload": 0, 
+                "size_downloaded": 1023719147, 
+                "downloaded_pieces": 1953, 
+                "size_uploaded": 3569665913
+            }
+        }, 
+        "title": "Ad vitam (4_6) ARTE (02.11.18).mp4", 
+        "size": 1023719147, 
+        "now": 1560178814, 
+        "type": "bt", 
+        "id": "dbid_1352", 
+        "history": []
+    }, 
+    "dbid_1350": {
+        "status": "seeding", 
+        "username": "admin", 
+        "additional": {
+            "transfer": {
+                "speed_download": 0, 
+                "speed_upload": 0, 
+                "size_downloaded": 892792840, 
+                "downloaded_pieces": 1703, 
+                "size_uploaded": 3819146392
+            }
+        }, 
+        "title": "Ad vitam (5_6) ARTE (02.11.18).mp4", 
+        "size": 892792840, 
+        "now": 1560178814, 
+        "type": "bt", 
+        "id": "dbid_1350", 
+        "history": []
+    }, 
+    "dbid_1351": {
+        "status": "seeding", 
+        "username": "admin", 
+        "additional": {
+            "transfer": {
+                "speed_download": 0, 
+                "speed_upload": 0, 
+                "size_downloaded": 873749015, 
+                "downloaded_pieces": 1667, 
+                "size_uploaded": 3217125479
+            }
+        }, 
+        "title": "Ad vitam (3_6) ARTE (02.11.18).mp4", 
+        "size": 873749015, 
+        "now": 1560178814, 
+        "type": "bt", 
+        "id": "dbid_1351", 
+        "history": []
+    }, 
+    "dbid_1399": {
+        "status": "seeding", 
+        "username": "admin", 
+        "additional": {
+            "transfer": {
+                "speed_download": 0, 
+                "speed_upload": 0, 
+                "size_downloaded": 3143069609, 
+                "downloaded_pieces": 750, 
+                "size_uploaded": 1827948776
+            }
+        }, 
+        "title": "Shoplifters.2018.LiMiTED.MULTi.1080p.HDLight.x264.AC3-TOXIC.mkv", 
+        "size": 3143069609, 
+        "now": 1560178814, 
+        "type": "bt", 
+        "id": "dbid_1399", 
+        "history": []
+    }, 
+    "dbid_1396": {
+        "status": "seeding", 
+        "username": "admin", 
+        "additional": {
+            "transfer": {
+                "speed_download": 0, 
+                "speed_upload": 0, 
+                "size_downloaded": 3247787119, 
+                "downloaded_pieces": 1549, 
+                "size_uploaded": 4946227614
+            }
+        }, 
+        "title": "Vice.2019.MULTi.1080p.HDLight.x264.AC3-TOXIC.mkv", 
+        "size": 3247787119, 
+        "now": 1560178814, 
+        "type": "bt", 
+        "id": "dbid_1396", 
+        "history": [
+            {
+                "size_uploaded_dt": 2199620, 
+                "dt": 3599, 
+                "time": 1560009611
+            }, 
+            {
+                "size_uploaded_dt": 413407, 
+                "dt": 3597, 
+                "time": 1560042011
+            }, 
+            {
+                "size_uploaded_dt": 7673796, 
+                "dt": 3598, 
+                "time": 1560052812
+            }, 
+            {
+                "size_uploaded_dt": 22616017, 
+                "dt": 3599, 
+                "time": 1560063611
+            }, 
+            {
+                "size_uploaded_dt": 37528179, 
+                "dt": 1814, 
+                "time": 1560065426
+            }, 
+            {
+                "size_uploaded_dt": 63183274, 
+                "dt": 1784, 
+                "time": 1560067210
+            }, 
+            {
+                "size_uploaded_dt": 1291300, 
+                "dt": 3601, 
+                "time": 1560070811
+            }, 
+            {
+                "size_uploaded_dt": 200542, 
+                "dt": 3600, 
+                "time": 1560078011
+            }, 
+            {
+                "size_uploaded_dt": 3722119, 
+                "dt": 3601, 
+                "time": 1560092414
+            }, 
+            {
+                "size_uploaded_dt": 32039738, 
+                "dt": 3596, 
+                "time": 1560103212
+            }, 
+            {
+                "size_uploaded_dt": 25171018, 
+                "dt": 3599, 
+                "time": 1560106811
+            }, 
+            {
+                "size_uploaded_dt": 33967369, 
+                "dt": 3602, 
+                "time": 1560110413
+            }, 
+            {
+                "size_uploaded_dt": 28973499, 
+                "dt": 3600, 
+                "time": 1560160811
+            }, 
+            {
+                "size_uploaded_dt": 16397, 
+                "dt": 3600, 
+                "time": 1560175211
+            }, 
+            {
+                "size_uploaded_dt": 163970, 
+                "dt": 3603, 
+                "time": 1560178814
+            }
+        ]
+    }, 
+    "dbid_1397": {
+        "status": "seeding", 
+        "username": "admin", 
+        "additional": {
+            "transfer": {
+                "speed_download": 0, 
+                "speed_upload": 1989, 
+                "size_downloaded": 2316638347, 
+                "downloaded_pieces": 553, 
+                "size_uploaded": 2272476135
+            }
+        }, 
+        "title": "Close.2019.MULTi.1080p.HDLight.x264.AC3-TOXIC.mkv", 
+        "size": 2316638347, 
+        "now": 1560178814, 
+        "type": "bt", 
+        "id": "dbid_1397", 
+        "history": [
+            {
+                "size_uploaded_dt": 18118684, 
+                "dt": 3605, 
+                "time": 1560024019
+            }, 
+            {
+                "size_uploaded_dt": 570493, 
+                "dt": 3600, 
+                "time": 1560038414
+            }, 
+            {
+                "size_uploaded_dt": 4312411, 
+                "dt": 3600, 
+                "time": 1560074411
+            }, 
+            {
+                "size_uploaded_dt": 245955, 
+                "dt": 3605, 
+                "time": 1560099616
+            }, 
+            {
+                "size_uploaded_dt": 3197415, 
+                "dt": 3596, 
+                "time": 1560103212
+            }, 
+            {
+                "size_uploaded_dt": 9444672, 
+                "dt": 3599, 
+                "time": 1560106811
+            }, 
+            {
+                "size_uploaded_dt": 17881730, 
+                "dt": 3602, 
+                "time": 1560110413
+            }, 
+            {
+                "size_uploaded_dt": 11813237, 
+                "dt": 3599, 
+                "time": 1560114012
+            }, 
+            {
+                "size_uploaded_dt": 23648512, 
+                "dt": 3603, 
+                "time": 1560178814
+            }
+        ]
+    }, 
+    "dbid_1395": {
+        "status": "seeding", 
+        "username": "admin", 
+        "additional": {
+            "transfer": {
+                "speed_download": 0, 
+                "speed_upload": 0, 
+                "size_downloaded": 5851654989, 
+                "downloaded_pieces": 2791, 
+                "size_uploaded": 9000061631
+            }
+        }, 
+        "title": "On.the.Basis.of.Sex.2018.FRENCH.720p.BluRay.x264-VENUE_YGG", 
+        "size": 5851654989, 
+        "now": 1560178814, 
+        "type": "bt", 
+        "id": "dbid_1395", 
+        "history": []
+    }, 
+    "dbid_1431": {
+        "status": "seeding", 
+        "username": "admin", 
+        "additional": {
+            "transfer": {
+                "speed_download": 0, 
+                "speed_upload": 0, 
+                "size_downloaded": 13599253411, 
+                "downloaded_pieces": 1622, 
+                "size_uploaded": 365702291
+            }
+        }, 
+        "title": "This Is Us - Saison 02", 
+        "size": 13599253411, 
+        "now": 1560178814, 
+        "type": "bt", 
+        "id": "dbid_1431", 
+        "history": [
+            {
+                "size_uploaded_dt": 133783123, 
+                "dt": 3598, 
+                "time": 1560052812
+            }, 
+            {
+                "size_uploaded_dt": 48141592, 
+                "dt": 3606, 
+                "time": 1560056418
+            }, 
+            {
+                "size_uploaded_dt": 40550705, 
+                "dt": 3600, 
+                "time": 1560088813
+            }, 
+            {
+                "size_uploaded_dt": 112187350, 
+                "dt": 3601, 
+                "time": 1560092414
+            }, 
+            {
+                "size_uploaded_dt": 4623954, 
+                "dt": 3597, 
+                "time": 1560096011
+            }, 
+            {
+                "size_uploaded_dt": 26415567, 
+                "dt": 3605, 
+                "time": 1560099616
+            }
+        ]
+    }, 
+    "dbid_1430": {
+        "status": "seeding", 
+        "username": "admin", 
+        "additional": {
+            "transfer": {
+                "speed_download": 0, 
+                "speed_upload": 0, 
+                "size_downloaded": 13237631955, 
+                "downloaded_pieces": 790, 
+                "size_uploaded": 322535964
+            }
+        }, 
+        "title": "This.Is.Us.S01.FRENCH.720p.HDTV.x264-SH0W", 
+        "size": 13237631955, 
+        "now": 1560178814, 
+        "type": "bt", 
+        "id": "dbid_1430", 
+        "history": [
+            {
+                "size_uploaded_dt": 32794, 
+                "dt": 3600, 
+                "time": 1560038414
+            }, 
+            {
+                "size_uploaded_dt": 40378486, 
+                "dt": 3600, 
+                "time": 1560088813
+            }, 
+            {
+                "size_uploaded_dt": 111506925, 
+                "dt": 3601, 
+                "time": 1560092414
+            }, 
+            {
+                "size_uploaded_dt": 2459550, 
+                "dt": 3605, 
+                "time": 1560099616
+            }, 
+            {
+                "size_uploaded_dt": 31198737, 
+                "dt": 3596, 
+                "time": 1560103212
+            }, 
+            {
+                "size_uploaded_dt": 10105306, 
+                "dt": 3599, 
+                "time": 1560106811
+            }, 
+            {
+                "size_uploaded_dt": 43531313, 
+                "dt": 3602, 
+                "time": 1560110413
+            }, 
+            {
+                "size_uploaded_dt": 42346750, 
+                "dt": 3599, 
+                "time": 1560114012
+            }, 
+            {
+                "size_uploaded_dt": 49191, 
+                "dt": 3599, 
+                "time": 1560121211
+            }, 
+            {
+                "size_uploaded_dt": 26546743, 
+                "dt": 3600, 
+                "time": 1560128412
+            }, 
+            {
+                "size_uploaded_dt": 14363772, 
+                "dt": 3603, 
+                "time": 1560132015
+            }, 
+            {
+                "size_uploaded_dt": 16397, 
+                "dt": 3603, 
+                "time": 1560178814
+            }
+        ]
+    }, 
+    "dbid_1419": {
+        "status": "seeding", 
+        "username": "admin", 
+        "additional": {
+            "transfer": {
+                "speed_download": 0, 
+                "speed_upload": 6607, 
+                "size_downloaded": 2474709735, 
+                "downloaded_pieces": 591, 
+                "size_uploaded": 3298242381
+            }
+        }, 
+        "title": "Bel.Canto.2018.MULTi.1080p.HDLight.x264.AC3-TOXIC.mkv", 
+        "size": 2474709735, 
+        "now": 1560178814, 
+        "type": "bt", 
+        "id": "dbid_1419", 
+        "history": [
+            {
+                "size_uploaded_dt": 1541533, 
+                "dt": 3596, 
+                "time": 1560034813
+            }, 
+            {
+                "size_uploaded_dt": 279540, 
+                "dt": 3600, 
+                "time": 1560038414
+            }, 
+            {
+                "size_uploaded_dt": 149368, 
+                "dt": 1814, 
+                "time": 1560065426
+            }, 
+            {
+                "size_uploaded_dt": 314094, 
+                "dt": 1784, 
+                "time": 1560067210
+            }, 
+            {
+                "size_uploaded_dt": 563031, 
+                "dt": 3601, 
+                "time": 1560070811
+            }, 
+            {
+                "size_uploaded_dt": 633270, 
+                "dt": 3600, 
+                "time": 1560074411
+            }, 
+            {
+                "size_uploaded_dt": 960604, 
+                "dt": 3600, 
+                "time": 1560078011
+            }, 
+            {
+                "size_uploaded_dt": 1357195, 
+                "dt": 3600, 
+                "time": 1560081611
+            }, 
+            {
+                "size_uploaded_dt": 23651704, 
+                "dt": 3602, 
+                "time": 1560085213
+            }, 
+            {
+                "size_uploaded_dt": 569380, 
+                "dt": 3600, 
+                "time": 1560088813
+            }, 
+            {
+                "size_uploaded_dt": 417206, 
+                "dt": 3601, 
+                "time": 1560092414
+            }, 
+            {
+                "size_uploaded_dt": 25398953, 
+                "dt": 3597, 
+                "time": 1560096011
+            }, 
+            {
+                "size_uploaded_dt": 4959754, 
+                "dt": 3603, 
+                "time": 1560178814
+            }
+        ]
+    }, 
+    "dbid_1410": {
+        "status": "seeding", 
+        "username": "admin", 
+        "additional": {
+            "transfer": {
+                "speed_download": 0, 
+                "speed_upload": 0, 
+                "size_downloaded": 2883799777, 
+                "downloaded_pieces": 688, 
+                "size_uploaded": 934557299
+            }
+        }, 
+        "title": "The Highwaymen (2019) MULTi Web-Dl 1080p x264 AC3-JiHeff.mkv", 
+        "size": 2883799777, 
+        "now": 1560178814, 
+        "type": "bt", 
+        "id": "dbid_1410", 
+        "history": [
+            {
+                "size_uploaded_dt": 2279183, 
+                "dt": 3602, 
+                "time": 1560110413
+            }, 
+            {
+                "size_uploaded_dt": 1894976, 
+                "dt": 3598, 
+                "time": 1560150011
+            }, 
+            {
+                "size_uploaded_dt": 61960988, 
+                "dt": 3600, 
+                "time": 1560153611
+            }
+        ]
+    }, 
+    "dbid_1349": {
+        "status": "seeding", 
+        "username": "admin", 
+        "additional": {
+            "transfer": {
+                "speed_download": 0, 
+                "speed_upload": 0, 
+                "size_downloaded": 934282068, 
+                "downloaded_pieces": 1783, 
+                "size_uploaded": 2808266235
+            }
+        }, 
+        "title": "Ad vitam (2_6) ARTE (02.11.18).mp4", 
+        "size": 934282068, 
+        "now": 1560178814, 
+        "type": "bt", 
+        "id": "dbid_1349", 
+        "history": [
+            {
+                "size_uploaded_dt": 19184489, 
+                "dt": 3602, 
+                "time": 1560031216
+            }
+        ]
+    }, 
+    "dbid_1348": {
+        "status": "seeding", 
+        "username": "admin", 
+        "additional": {
+            "transfer": {
+                "speed_download": 0, 
+                "speed_upload": 0, 
+                "size_downloaded": 970551478, 
+                "downloaded_pieces": 1852, 
+                "size_uploaded": 4262344260
+            }
+        }, 
+        "title": "Ad vitam (6_6) ARTE (02.11.18).mp4", 
+        "size": 970551478, 
+        "now": 1560178814, 
+        "type": "bt", 
+        "id": "dbid_1348", 
+        "history": []
+    }, 
+    "dbid_1347": {
+        "status": "seeding", 
+        "username": "admin", 
+        "additional": {
+            "transfer": {
+                "speed_download": 0, 
+                "speed_upload": 0, 
+                "size_downloaded": 1001053320, 
+                "downloaded_pieces": 1910, 
+                "size_uploaded": 2286533182
+            }
+        }, 
+        "title": "Ad vitam (1_6) ARTE (02.11.18).mp4", 
+        "size": 1001053320, 
+        "now": 1560178814, 
+        "type": "bt", 
+        "id": "dbid_1347", 
+        "history": []
+    }, 
+    "dbid_1337": {
+        "status": "seeding", 
+        "username": "admin", 
+        "additional": {
+            "transfer": {
+                "speed_download": 0, 
+                "speed_upload": 0, 
+                "size_downloaded": 1461507117, 
+                "downloaded_pieces": 697, 
+                "size_uploaded": 7789597233
+            }
+        }, 
+        "title": "Olivier NOREK-SURTENSIONS-[mp3.256kbps", 
+        "size": 1461507117, 
+        "now": 1560178814, 
+        "type": "bt", 
+        "id": "dbid_1337", 
+        "history": [
+            {
+                "size_uploaded_dt": 96073612, 
+                "dt": 3598, 
+                "time": 1560150011
+            }
+        ]
+    }, 
+    "dbid_1428": {
+        "status": "seeding", 
+        "username": "admin", 
+        "additional": {
+            "transfer": {
+                "speed_download": 0, 
+                "speed_upload": 116723, 
+                "size_downloaded": 5553517687, 
+                "downloaded_pieces": 663, 
+                "size_uploaded": 2645969250
+            }
+        }, 
+        "title": "I.Am.Mother.2019.MULTi.1080p.NF.WEB-DL.DD5.1.x264-ARK01.mkv", 
+        "size": 5553517687, 
+        "now": 1560178814, 
+        "type": "bt", 
+        "id": "dbid_1428", 
+        "history": [
+            {
+                "size_uploaded_dt": 101109518, 
+                "dt": 3599, 
+                "time": 1560009611
+            }, 
+            {
+                "size_uploaded_dt": 139257269, 
+                "dt": 3599, 
+                "time": 1560013211
+            }, 
+            {
+                "size_uploaded_dt": 99987093, 
+                "dt": 3602, 
+                "time": 1560016813
+            }, 
+            {
+                "size_uploaded_dt": 100871540, 
+                "dt": 3599, 
+                "time": 1560020413
+            }, 
+            {
+                "size_uploaded_dt": 42025511, 
+                "dt": 3605, 
+                "time": 1560024019
+            }, 
+            {
+                "size_uploaded_dt": 25164595, 
+                "dt": 3595, 
+                "time": 1560027614
+            }, 
+            {
+                "size_uploaded_dt": 85769781, 
+                "dt": 3602, 
+                "time": 1560031216
+            }, 
+            {
+                "size_uploaded_dt": 5315468, 
+                "dt": 3596, 
+                "time": 1560034813
+            }, 
+            {
+                "size_uploaded_dt": 315095219, 
+                "dt": 3600, 
+                "time": 1560038414
+            }, 
+            {
+                "size_uploaded_dt": 215735329, 
+                "dt": 3597, 
+                "time": 1560042011
+            }, 
+            {
+                "size_uploaded_dt": 81781563, 
+                "dt": 3602, 
+                "time": 1560045613
+            }, 
+            {
+                "size_uploaded_dt": 119944055, 
+                "dt": 3593, 
+                "time": 1560060011
+            }, 
+            {
+                "size_uploaded_dt": 64259843, 
+                "dt": 3600, 
+                "time": 1560078011
+            }, 
+            {
+                "size_uploaded_dt": 1410142, 
+                "dt": 3600, 
+                "time": 1560081611
+            }, 
+            {
+                "size_uploaded_dt": 15193789, 
+                "dt": 3602, 
+                "time": 1560085213
+            }, 
+            {
+                "size_uploaded_dt": 49279603, 
+                "dt": 3600, 
+                "time": 1560088813
+            }, 
+            {
+                "size_uploaded_dt": 51644574, 
+                "dt": 3601, 
+                "time": 1560092414
+            }, 
+            {
+                "size_uploaded_dt": 4892677, 
+                "dt": 3597, 
+                "time": 1560096011
+            }, 
+            {
+                "size_uploaded_dt": 113709284, 
+                "dt": 3605, 
+                "time": 1560099616
+            }, 
+            {
+                "size_uploaded_dt": 68135393, 
+                "dt": 3596, 
+                "time": 1560103212
+            }, 
+            {
+                "size_uploaded_dt": 54272493, 
+                "dt": 3599, 
+                "time": 1560114012
+            }, 
+            {
+                "size_uploaded_dt": 51735164, 
+                "dt": 3600, 
+                "time": 1560117612
+            }, 
+            {
+                "size_uploaded_dt": 73437249, 
+                "dt": 3599, 
+                "time": 1560121211
+            }, 
+            {
+                "size_uploaded_dt": 75374292, 
+                "dt": 3601, 
+                "time": 1560124812
+            }, 
+            {
+                "size_uploaded_dt": 38063459, 
+                "dt": 3600, 
+                "time": 1560128412
+            }, 
+            {
+                "size_uploaded_dt": 108089024, 
+                "dt": 3603, 
+                "time": 1560132015
+            }, 
+            {
+                "size_uploaded_dt": 48987243, 
+                "dt": 3600, 
+                "time": 1560160811
+            }, 
+            {
+                "size_uploaded_dt": 625722, 
+                "dt": 3600, 
+                "time": 1560164411
+            }, 
+            {
+                "size_uploaded_dt": 14412963, 
+                "dt": 3600, 
+                "time": 1560168011
+            }, 
+            {
+                "size_uploaded_dt": 49027030, 
+                "dt": 3600, 
+                "time": 1560171611
+            }, 
+            {
+                "size_uploaded_dt": 89937545, 
+                "dt": 3600, 
+                "time": 1560175211
+            }, 
+            {
+                "size_uploaded_dt": 196527751, 
+                "dt": 3603, 
+                "time": 1560178814
+            }
+        ]
+    }, 
+    "dbid_1424": {
+        "status": "seeding", 
+        "username": "admin", 
+        "additional": {
+            "transfer": {
+                "speed_download": 0, 
+                "speed_upload": 0, 
+                "size_downloaded": 2377245500, 
+                "downloaded_pieces": 4535, 
+                "size_uploaded": 2362788854
+            }
+        }, 
+        "title": "Shelter.2017.MULTi.720p.WEB.H264-FRATERNiTY", 
+        "size": 2377245500, 
+        "now": 1560178814, 
+        "type": "bt", 
+        "id": "dbid_1424", 
+        "history": [
+            {
+                "size_uploaded_dt": 22893293, 
+                "dt": 3599, 
+                "time": 1560009611
+            }, 
+            {
+                "size_uploaded_dt": 16700944, 
+                "dt": 3599, 
+                "time": 1560013211
+            }, 
+            {
+                "size_uploaded_dt": 2656314, 
+                "dt": 3602, 
+                "time": 1560016813
+            }, 
+            {
+                "size_uploaded_dt": 2164404, 
+                "dt": 3599, 
+                "time": 1560020413
+            }, 
+            {
+                "size_uploaded_dt": 4558353, 
+                "dt": 3605, 
+                "time": 1560024019
+            }, 
+            {
+                "size_uploaded_dt": 442732, 
+                "dt": 3595, 
+                "time": 1560027614
+            }, 
+            {
+                "size_uploaded_dt": 30415238, 
+                "dt": 3602, 
+                "time": 1560031216
+            }, 
+            {
+                "size_uploaded_dt": 33319902, 
+                "dt": 3596, 
+                "time": 1560034813
+            }, 
+            {
+                "size_uploaded_dt": 30301656, 
+                "dt": 3600, 
+                "time": 1560038414
+            }, 
+            {
+                "size_uploaded_dt": 25333365, 
+                "dt": 3597, 
+                "time": 1560042011
+            }, 
+            {
+                "size_uploaded_dt": 8641219, 
+                "dt": 3602, 
+                "time": 1560045613
+            }, 
+            {
+                "size_uploaded_dt": 38259527, 
+                "dt": 3600, 
+                "time": 1560074411
+            }, 
+            {
+                "size_uploaded_dt": 1931397, 
+                "dt": 3600, 
+                "time": 1560081611
+            }
+        ]
+    }, 
+    "dbid_1425": {
+        "status": "seeding", 
+        "username": "admin", 
+        "additional": {
+            "transfer": {
+                "speed_download": 0, 
+                "speed_upload": 546, 
+                "size_downloaded": 2590579916, 
+                "downloaded_pieces": 618, 
+                "size_uploaded": 885088111
+            }
+        }, 
+        "title": "The Vanishing 2018 MULTi 1080p HDLight x264 AC3-EXTREME", 
+        "size": 2590579916, 
+        "now": 1560178814, 
+        "type": "bt", 
+        "id": "dbid_1425", 
+        "history": [
+            {
+                "size_uploaded_dt": 21967205, 
+                "dt": 3596, 
+                "time": 1560034813
+            }, 
+            {
+                "size_uploaded_dt": 3722119, 
+                "dt": 3600, 
+                "time": 1560038414
+            }, 
+            {
+                "size_uploaded_dt": 8788792, 
+                "dt": 3602, 
+                "time": 1560045613
+            }, 
+            {
+                "size_uploaded_dt": 555498, 
+                "dt": 3599, 
+                "time": 1560049213
+            }, 
+            {
+                "size_uploaded_dt": 147573, 
+                "dt": 3598, 
+                "time": 1560052812
+            }, 
+            {
+                "size_uploaded_dt": 1147790, 
+                "dt": 3600, 
+                "time": 1560074411
+            }, 
+            {
+                "size_uploaded_dt": 7973545, 
+                "dt": 3600, 
+                "time": 1560078011
+            }, 
+            {
+                "size_uploaded_dt": 5902920, 
+                "dt": 3600, 
+                "time": 1560081611
+            }, 
+            {
+                "size_uploaded_dt": 2338506, 
+                "dt": 3597, 
+                "time": 1560096011
+            }, 
+            {
+                "size_uploaded_dt": 9543054, 
+                "dt": 3596, 
+                "time": 1560103212
+            }, 
+            {
+                "size_uploaded_dt": 9510260, 
+                "dt": 3599, 
+                "time": 1560106811
+            }, 
+            {
+                "size_uploaded_dt": 4239843, 
+                "dt": 3602, 
+                "time": 1560110413
+            }, 
+            {
+                "size_uploaded_dt": 17880936, 
+                "dt": 3599, 
+                "time": 1560114012
+            }, 
+            {
+                "size_uploaded_dt": 721468, 
+                "dt": 3600, 
+                "time": 1560117612
+            }, 
+            {
+                "size_uploaded_dt": 4911701, 
+                "dt": 3601, 
+                "time": 1560124812
+            }, 
+            {
+                "size_uploaded_dt": 2558314, 
+                "dt": 3600, 
+                "time": 1560128412
+            }, 
+            {
+                "size_uploaded_dt": 3000651, 
+                "dt": 3600, 
+                "time": 1560153611
+            }, 
+            {
+                "size_uploaded_dt": 5247040, 
+                "dt": 3600, 
+                "time": 1560157211
+            }, 
+            {
+                "size_uploaded_dt": 2951460, 
+                "dt": 3600, 
+                "time": 1560160811
+            }, 
+            {
+                "size_uploaded_dt": 409925, 
+                "dt": 3600, 
+                "time": 1560164411
+            }, 
+            {
+                "size_uploaded_dt": 869041, 
+                "dt": 3600, 
+                "time": 1560168011
+            }, 
+            {
+                "size_uploaded_dt": 2878113, 
+                "dt": 3600, 
+                "time": 1560175211
+            }, 
+            {
+                "size_uploaded_dt": 2236957, 
+                "dt": 3603, 
+                "time": 1560178814
+            }
+        ]
+    }, 
+    "dbid_1426": {
+        "status": "seeding", 
+        "username": "admin", 
+        "additional": {
+            "transfer": {
+                "speed_download": 0, 
+                "speed_upload": 0, 
+                "size_downloaded": 1696125616, 
+                "downloaded_pieces": 6471, 
+                "size_uploaded": 742475917
+            }
+        }, 
+        "title": "Stockholm.2018.FRENCH.WEBRip.XviD.AC3-NoTag", 
+        "size": 1696125616, 
+        "now": 1560178814, 
+        "type": "bt", 
+        "id": "dbid_1426", 
+        "history": [
+            {
+                "size_uploaded_dt": 35679872, 
+                "dt": 1814, 
+                "time": 1560065426
+            }, 
+            {
+                "size_uploaded_dt": 58291335, 
+                "dt": 3600, 
+                "time": 1560128412
+            }, 
+            {
+                "size_uploaded_dt": 24267560, 
+                "dt": 3600, 
+                "time": 1560164411
+            }, 
+            {
+                "size_uploaded_dt": 19955149, 
+                "dt": 3600, 
+                "time": 1560168011
+            }, 
+            {
+                "size_uploaded_dt": 14888476, 
+                "dt": 3600, 
+                "time": 1560171611
+            }
+        ]
+    }, 
+    "dbid_1427": {
+        "status": "seeding", 
+        "username": "admin", 
+        "additional": {
+            "transfer": {
+                "speed_download": 0, 
+                "speed_upload": 24358, 
+                "size_downloaded": 4773727338, 
+                "downloaded_pieces": 570, 
+                "size_uploaded": 706482801
+            }
+        }, 
+        "title": "Black.Mirror.S05.MULTi.720p.NF.WEB-DL.DD5.1.x264-ARK01", 
+        "size": 4773727338, 
+        "now": 1560178814, 
+        "type": "bt", 
+        "id": "dbid_1427", 
+        "history": [
+            {
+                "size_uploaded_dt": 47324505, 
+                "dt": 3599, 
+                "time": 1560009611
+            }, 
+            {
+                "size_uploaded_dt": 18118684, 
+                "dt": 3599, 
+                "time": 1560013211
+            }, 
+            {
+                "size_uploaded_dt": 4459983, 
+                "dt": 3599, 
+                "time": 1560020413
+            }, 
+            {
+                "size_uploaded_dt": 21808002, 
+                "dt": 3605, 
+                "time": 1560024019
+            }, 
+            {
+                "size_uploaded_dt": 49191, 
+                "dt": 3595, 
+                "time": 1560027614
+            }, 
+            {
+                "size_uploaded_dt": 13757082, 
+                "dt": 3602, 
+                "time": 1560031216
+            }, 
+            {
+                "size_uploaded_dt": 2197200, 
+                "dt": 3596, 
+                "time": 1560034813
+            }, 
+            {
+                "size_uploaded_dt": 5162606, 
+                "dt": 3600, 
+                "time": 1560038414
+            }, 
+            {
+                "size_uploaded_dt": 14246202, 
+                "dt": 3597, 
+                "time": 1560042011
+            }, 
+            {
+                "size_uploaded_dt": 14202370, 
+                "dt": 3602, 
+                "time": 1560045613
+            }, 
+            {
+                "size_uploaded_dt": 25740578, 
+                "dt": 3599, 
+                "time": 1560049213
+            }, 
+            {
+                "size_uploaded_dt": 3619917, 
+                "dt": 3598, 
+                "time": 1560052812
+            }, 
+            {
+                "size_uploaded_dt": 12336369, 
+                "dt": 3606, 
+                "time": 1560056418
+            }, 
+            {
+                "size_uploaded_dt": 9399231, 
+                "dt": 3593, 
+                "time": 1560060011
+            }, 
+            {
+                "size_uploaded_dt": 1032258, 
+                "dt": 3599, 
+                "time": 1560063611
+            }, 
+            {
+                "size_uploaded_dt": 5537741, 
+                "dt": 3600, 
+                "time": 1560074411
+            }, 
+            {
+                "size_uploaded_dt": 2447598, 
+                "dt": 3600, 
+                "time": 1560078011
+            }, 
+            {
+                "size_uploaded_dt": 1131393, 
+                "dt": 3600, 
+                "time": 1560081611
+            }, 
+            {
+                "size_uploaded_dt": 12068192, 
+                "dt": 3602, 
+                "time": 1560085213
+            }, 
+            {
+                "size_uploaded_dt": 15969281, 
+                "dt": 3600, 
+                "time": 1560088813
+            }, 
+            {
+                "size_uploaded_dt": 1509921, 
+                "dt": 3601, 
+                "time": 1560092414
+            }, 
+            {
+                "size_uploaded_dt": 13658701, 
+                "dt": 3597, 
+                "time": 1560096011
+            }, 
+            {
+                "size_uploaded_dt": 6624388, 
+                "dt": 3605, 
+                "time": 1560099616
+            }, 
+            {
+                "size_uploaded_dt": 118590758, 
+                "dt": 3596, 
+                "time": 1560103212
+            }, 
+            {
+                "size_uploaded_dt": 51355404, 
+                "dt": 3599, 
+                "time": 1560114012
+            }, 
+            {
+                "size_uploaded_dt": 5902920, 
+                "dt": 3599, 
+                "time": 1560121211
+            }, 
+            {
+                "size_uploaded_dt": 278454, 
+                "dt": 3600, 
+                "time": 1560128412
+            }, 
+            {
+                "size_uploaded_dt": 1639995, 
+                "dt": 3603, 
+                "time": 1560132015
+            }, 
+            {
+                "size_uploaded_dt": 32318487, 
+                "dt": 3600, 
+                "time": 1560135615
+            }, 
+            {
+                "size_uploaded_dt": 26579537, 
+                "dt": 3596, 
+                "time": 1560139211
+            }, 
+            {
+                "size_uploaded_dt": 7231077, 
+                "dt": 3600, 
+                "time": 1560160811
+            }, 
+            {
+                "size_uploaded_dt": 70293939, 
+                "dt": 3600, 
+                "time": 1560164411
+            }, 
+            {
+                "size_uploaded_dt": 11275278, 
+                "dt": 3600, 
+                "time": 1560168011
+            }, 
+            {
+                "size_uploaded_dt": 13814093, 
+                "dt": 3600, 
+                "time": 1560171611
+            }, 
+            {
+                "size_uploaded_dt": 24092955, 
+                "dt": 3600, 
+                "time": 1560175211
+            }, 
+            {
+                "size_uploaded_dt": 57059474, 
+                "dt": 3603, 
+                "time": 1560178814
+            }
+        ]
+    }, 
+    "dbid_1420": {
+        "status": "seeding", 
+        "username": "admin", 
+        "additional": {
+            "transfer": {
+                "speed_download": 0, 
+                "speed_upload": 0, 
+                "size_downloaded": 3705416122, 
+                "downloaded_pieces": 884, 
+                "size_uploaded": 3772452510
+            }
+        }, 
+        "title": "Burning.2018.MULTi.TRUEFRENCH.1080p.HDLight.x264.AC3-TOXIC.mkv", 
+        "size": 3705416122, 
+        "now": 1560178814, 
+        "type": "bt", 
+        "id": "dbid_1420", 
+        "history": [
+            {
+                "size_uploaded_dt": 8395247, 
+                "dt": 3599, 
+                "time": 1560009611
+            }, 
+            {
+                "size_uploaded_dt": 163987, 
+                "dt": 3599, 
+                "time": 1560013211
+            }, 
+            {
+                "size_uploaded_dt": 13319792, 
+                "dt": 3598, 
+                "time": 1560052812
+            }, 
+            {
+                "size_uploaded_dt": 18035112, 
+                "dt": 3601, 
+                "time": 1560092414
+            }, 
+            {
+                "size_uploaded_dt": 11527091, 
+                "dt": 3597, 
+                "time": 1560096011
+            }, 
+            {
+                "size_uploaded_dt": 9362687, 
+                "dt": 3605, 
+                "time": 1560099616
+            }, 
+            {
+                "size_uploaded_dt": 114779, 
+                "dt": 3596, 
+                "time": 1560103212
+            }, 
+            {
+                "size_uploaded_dt": 875041, 
+                "dt": 3599, 
+                "time": 1560114012
+            }, 
+            {
+                "size_uploaded_dt": 2279183, 
+                "dt": 3606, 
+                "time": 1560142817
+            }, 
+            {
+                "size_uploaded_dt": 8198500, 
+                "dt": 3596, 
+                "time": 1560146413
+            }, 
+            {
+                "size_uploaded_dt": 7263871, 
+                "dt": 3598, 
+                "time": 1560150011
+            }, 
+            {
+                "size_uploaded_dt": 6755564, 
+                "dt": 3600, 
+                "time": 1560153611
+            }, 
+            {
+                "size_uploaded_dt": 1843106, 
+                "dt": 3600, 
+                "time": 1560164411
+            }, 
+            {
+                "size_uploaded_dt": 65412560, 
+                "dt": 3600, 
+                "time": 1560168011
+            }, 
+            {
+                "size_uploaded_dt": 3167685, 
+                "dt": 3600, 
+                "time": 1560171611
+            }
+        ]
+    }, 
+    "dbid_1408": {
+        "status": "seeding", 
+        "username": "admin", 
+        "additional": {
+            "transfer": {
+                "speed_download": 0, 
+                "speed_upload": 0, 
+                "size_downloaded": 4256030117, 
+                "downloaded_pieces": 8118, 
+                "size_uploaded": 2997384958
+            }
+        }, 
+        "title": "Je.Ne.Suis.Pas.Un.Salaud.2015.FRENCH.1080p.WEB.H264-SiGeRiS", 
+        "size": 4256030117, 
+        "now": 1560178814, 
+        "type": "bt", 
+        "id": "dbid_1408", 
+        "history": []
+    }, 
+    "dbid_1423": {
+        "status": "seeding", 
+        "username": "admin", 
+        "additional": {
+            "transfer": {
+                "speed_download": 0, 
+                "speed_upload": 0, 
+                "size_downloaded": 2556231090, 
+                "downloaded_pieces": 1219, 
+                "size_uploaded": 2373307437
+            }
+        }, 
+        "title": "Captive.State.2019.MULTi.1080p.HDLight.x264.AC3-EXTREME.mkv", 
+        "size": 2556231090, 
+        "now": 1560178814, 
+        "type": "bt", 
+        "id": "dbid_1423", 
+        "history": [
+            {
+                "size_uploaded_dt": 1492127, 
+                "dt": 3599, 
+                "time": 1560009611
+            }, 
+            {
+                "size_uploaded_dt": 67711, 
+                "dt": 3599, 
+                "time": 1560020413
+            }, 
+            {
+                "size_uploaded_dt": 389562, 
+                "dt": 3605, 
+                "time": 1560024019
+            }, 
+            {
+                "size_uploaded_dt": 9164454, 
+                "dt": 3595, 
+                "time": 1560027614
+            }, 
+            {
+                "size_uploaded_dt": 1445723, 
+                "dt": 1814, 
+                "time": 1560065426
+            }, 
+            {
+                "size_uploaded_dt": 885438, 
+                "dt": 3600, 
+                "time": 1560081611
+            }, 
+            {
+                "size_uploaded_dt": 3066239, 
+                "dt": 3602, 
+                "time": 1560085213
+            }, 
+            {
+                "size_uploaded_dt": 3804104, 
+                "dt": 3600, 
+                "time": 1560088813
+            }, 
+            {
+                "size_uploaded_dt": 8674013, 
+                "dt": 3601, 
+                "time": 1560092414
+            }, 
+            {
+                "size_uploaded_dt": 393528, 
+                "dt": 3597, 
+                "time": 1560096011
+            }, 
+            {
+                "size_uploaded_dt": 327940, 
+                "dt": 3605, 
+                "time": 1560099616
+            }, 
+            {
+                "size_uploaded_dt": 10098901, 
+                "dt": 3602, 
+                "time": 1560110413
+            }, 
+            {
+                "size_uploaded_dt": 1918449, 
+                "dt": 3599, 
+                "time": 1560114012
+            }, 
+            {
+                "size_uploaded_dt": 377131, 
+                "dt": 3600, 
+                "time": 1560117612
+            }, 
+            {
+                "size_uploaded_dt": 6853946, 
+                "dt": 3599, 
+                "time": 1560121211
+            }, 
+            {
+                "size_uploaded_dt": 1428600, 
+                "dt": 3600, 
+                "time": 1560128412
+            }, 
+            {
+                "size_uploaded_dt": 32794, 
+                "dt": 3600, 
+                "time": 1560160811
+            }, 
+            {
+                "size_uploaded_dt": 11218, 
+                "dt": 3600, 
+                "time": 1560164411
+            }, 
+            {
+                "size_uploaded_dt": 20325710, 
+                "dt": 3603, 
+                "time": 1560178814
+            }
+        ]
+    }, 
+    "dbid_1406": {
+        "status": "seeding", 
+        "username": "admin", 
+        "additional": {
+            "transfer": {
+                "speed_download": 0, 
+                "speed_upload": 0, 
+                "size_downloaded": 1865465268, 
+                "downloaded_pieces": 3559, 
+                "size_uploaded": 2619530315
+            }
+        }, 
+        "title": "Trouble.Every.Day.2001.DVDRip.x264-HANDJOB", 
+        "size": 1865465268, 
+        "now": 1560178814, 
+        "type": "bt", 
+        "id": "dbid_1406", 
+        "history": [
+            {
+                "size_uploaded_dt": 8100118, 
+                "dt": 3596, 
+                "time": 1560103212
+            }, 
+            {
+                "size_uploaded_dt": 10477683, 
+                "dt": 3599, 
+                "time": 1560106811
+            }, 
+            {
+                "size_uploaded_dt": 34466494, 
+                "dt": 3602, 
+                "time": 1560110413
+            }, 
+            {
+                "size_uploaded_dt": 33986367, 
+                "dt": 3599, 
+                "time": 1560114012
+            }, 
+            {
+                "size_uploaded_dt": 33302307, 
+                "dt": 3600, 
+                "time": 1560175211
+            }, 
+            {
+                "size_uploaded_dt": 2110671, 
+                "dt": 3603, 
+                "time": 1560178814
+            }
+        ]
+    }, 
+    "dbid_1404": {
+        "status": "seeding", 
+        "username": "admin", 
+        "additional": {
+            "transfer": {
+                "speed_download": 0, 
+                "speed_upload": 0, 
+                "size_downloaded": 2448246585, 
+                "downloaded_pieces": 9340, 
+                "size_uploaded": 2393004715
+            }
+        }, 
+        "title": "Forrest Gump [1080p] MULTI 1994 BluRay x264-Pop .mkv", 
+        "size": 2448246585, 
+        "now": 1560178814, 
+        "type": "bt", 
+        "id": "dbid_1404", 
+        "history": [
+            {
+                "size_uploaded_dt": 1885655, 
+                "dt": 3599, 
+                "time": 1560121211
+            }, 
+            {
+                "size_uploaded_dt": 655880, 
+                "dt": 3601, 
+                "time": 1560124812
+            }, 
+            {
+                "size_uploaded_dt": 21053748, 
+                "dt": 3596, 
+                "time": 1560139211
+            }, 
+            {
+                "size_uploaded_dt": 7509826, 
+                "dt": 3606, 
+                "time": 1560142817
+            }
+        ]
+    }, 
+    "dbid_1405": {
+        "status": "seeding", 
+        "username": "admin", 
+        "additional": {
+            "transfer": {
+                "speed_download": 0, 
+                "speed_upload": 0, 
+                "size_downloaded": 3646219429, 
+                "downloaded_pieces": 1739, 
+                "size_uploaded": 5704195641
+            }
+        }, 
+        "title": "L.Intervention.2018.FRENCH.1080p.WEB.H264-EXTREME.mkv", 
+        "size": 3646219429, 
+        "now": 1560178814, 
+        "type": "bt", 
+        "id": "dbid_1405", 
+        "history": [
+            {
+                "size_uploaded_dt": 9329893, 
+                "dt": 3600, 
+                "time": 1560038414
+            }, 
+            {
+                "size_uploaded_dt": 10084155, 
+                "dt": 1814, 
+                "time": 1560065426
+            }, 
+            {
+                "size_uploaded_dt": 1393745, 
+                "dt": 1784, 
+                "time": 1560067210
+            }, 
+            {
+                "size_uploaded_dt": 7280268, 
+                "dt": 3600, 
+                "time": 1560081611
+            }, 
+            {
+                "size_uploaded_dt": 6132478, 
+                "dt": 3602, 
+                "time": 1560085213
+            }, 
+            {
+                "size_uploaded_dt": 9001953, 
+                "dt": 3597, 
+                "time": 1560096011
+            }, 
+            {
+                "size_uploaded_dt": 1770876, 
+                "dt": 3605, 
+                "time": 1560099616
+            }, 
+            {
+                "size_uploaded_dt": 4340808, 
+                "dt": 3596, 
+                "time": 1560103212
+            }, 
+            {
+                "size_uploaded_dt": 5127414, 
+                "dt": 3602, 
+                "time": 1560110413
+            }, 
+            {
+                "size_uploaded_dt": 1574112, 
+                "dt": 3599, 
+                "time": 1560121211
+            }
+        ]
+    }, 
+    "dbid_1402": {
+        "status": "seeding", 
+        "username": "admin", 
+        "additional": {
+            "transfer": {
+                "speed_download": 0, 
+                "speed_upload": 0, 
+                "size_downloaded": 3006847755, 
+                "downloaded_pieces": 717, 
+                "size_uploaded": 3886213033
+            }
+        }, 
+        "title": "L.Empereur.De.Paris.2018.FRENCH.1080p.HDLight.x264.AC3-TOXIC.mkv", 
+        "size": 3006847755, 
+        "now": 1560178814, 
+        "type": "bt", 
+        "id": "dbid_1402", 
+        "history": [
+            {
+                "size_uploaded_dt": 770658, 
+                "dt": 3595, 
+                "time": 1560027614
+            }, 
+            {
+                "size_uploaded_dt": 344337, 
+                "dt": 3597, 
+                "time": 1560042011
+            }, 
+            {
+                "size_uploaded_dt": 180367, 
+                "dt": 3602, 
+                "time": 1560045613
+            }, 
+            {
+                "size_uploaded_dt": 6542403, 
+                "dt": 1814, 
+                "time": 1560065426
+            }, 
+            {
+                "size_uploaded_dt": 14708109, 
+                "dt": 1784, 
+                "time": 1560067210
+            }, 
+            {
+                "size_uploaded_dt": 14937667, 
+                "dt": 3601, 
+                "time": 1560070811
+            }, 
+            {
+                "size_uploaded_dt": 9349595, 
+                "dt": 3600, 
+                "time": 1560074411
+            }, 
+            {
+                "size_uploaded_dt": 42091099, 
+                "dt": 3600, 
+                "time": 1560088813
+            }, 
+            {
+                "size_uploaded_dt": 6578197, 
+                "dt": 3599, 
+                "time": 1560106811
+            }, 
+            {
+                "size_uploaded_dt": 1216378, 
+                "dt": 3602, 
+                "time": 1560110413
+            }, 
+            {
+                "size_uploaded_dt": 635758, 
+                "dt": 3599, 
+                "time": 1560114012
+            }, 
+            {
+                "size_uploaded_dt": 21552628, 
+                "dt": 3600, 
+                "time": 1560117612
+            }, 
+            {
+                "size_uploaded_dt": 8194544, 
+                "dt": 3599, 
+                "time": 1560121211
+            }, 
+            {
+                "size_uploaded_dt": 2885872, 
+                "dt": 3600, 
+                "time": 1560157211
+            }, 
+            {
+                "size_uploaded_dt": 29563791, 
+                "dt": 3600, 
+                "time": 1560171611
+            }, 
+            {
+                "size_uploaded_dt": 22190492, 
+                "dt": 3600, 
+                "time": 1560175211
+            }, 
+            {
+                "size_uploaded_dt": 45645152, 
+                "dt": 3603, 
+                "time": 1560178814
+            }
+        ]
+    }, 
+    "dbid_1429": {
+        "status": "seeding", 
+        "username": "admin", 
+        "additional": {
+            "transfer": {
+                "speed_download": 0, 
+                "speed_upload": 13080, 
+                "size_downloaded": 5813045793, 
+                "downloaded_pieces": 2772, 
+                "size_uploaded": 3038691066
+            }
+        }, 
+        "title": "Chernobyl.S01.MULTi.1080p.10bit.WEBRip.x265-NSP", 
+        "size": 5813045793, 
+        "now": 1560178814, 
+        "type": "bt", 
+        "id": "dbid_1429", 
+        "history": [
+            {
+                "size_uploaded_dt": 24794976, 
+                "dt": 3599, 
+                "time": 1560020413
+            }, 
+            {
+                "size_uploaded_dt": 29182049, 
+                "dt": 3605, 
+                "time": 1560024019
+            }, 
+            {
+                "size_uploaded_dt": 29690976, 
+                "dt": 3595, 
+                "time": 1560027614
+            }, 
+            {
+                "size_uploaded_dt": 68255602, 
+                "dt": 3602, 
+                "time": 1560031216
+            }, 
+            {
+                "size_uploaded_dt": 1722354, 
+                "dt": 3596, 
+                "time": 1560034813
+            }, 
+            {
+                "size_uploaded_dt": 51290928, 
+                "dt": 3600, 
+                "time": 1560038414
+            }, 
+            {
+                "size_uploaded_dt": 23546092, 
+                "dt": 3597, 
+                "time": 1560042011
+            }, 
+            {
+                "size_uploaded_dt": 1344554, 
+                "dt": 3602, 
+                "time": 1560045613
+            }, 
+            {
+                "size_uploaded_dt": 1262569, 
+                "dt": 3599, 
+                "time": 1560049213
+            }, 
+            {
+                "size_uploaded_dt": 17823539, 
+                "dt": 3598, 
+                "time": 1560052812
+            }, 
+            {
+                "size_uploaded_dt": 131176, 
+                "dt": 3606, 
+                "time": 1560056418
+            }, 
+            {
+                "size_uploaded_dt": 15331195, 
+                "dt": 3593, 
+                "time": 1560060011
+            }, 
+            {
+                "size_uploaded_dt": 32712015, 
+                "dt": 3599, 
+                "time": 1560063611
+            }, 
+            {
+                "size_uploaded_dt": 3213812, 
+                "dt": 1814, 
+                "time": 1560065426
+            }, 
+            {
+                "size_uploaded_dt": 5003512, 
+                "dt": 1784, 
+                "time": 1560067210
+            }, 
+            {
+                "size_uploaded_dt": 30036877, 
+                "dt": 3601, 
+                "time": 1560070811
+            }, 
+            {
+                "size_uploaded_dt": 23012805, 
+                "dt": 3600, 
+                "time": 1560074411
+            }, 
+            {
+                "size_uploaded_dt": 88717162, 
+                "dt": 3600, 
+                "time": 1560078011
+            }, 
+            {
+                "size_uploaded_dt": 51929828, 
+                "dt": 3600, 
+                "time": 1560081611
+            }, 
+            {
+                "size_uploaded_dt": 124371664, 
+                "dt": 3602, 
+                "time": 1560085213
+            }, 
+            {
+                "size_uploaded_dt": 144835580, 
+                "dt": 3600, 
+                "time": 1560088813
+            }, 
+            {
+                "size_uploaded_dt": 209280157, 
+                "dt": 3601, 
+                "time": 1560092414
+            }, 
+            {
+                "size_uploaded_dt": 79902581, 
+                "dt": 3597, 
+                "time": 1560096011
+            }, 
+            {
+                "size_uploaded_dt": 26319791, 
+                "dt": 3605, 
+                "time": 1560099616
+            }, 
+            {
+                "size_uploaded_dt": 51194781, 
+                "dt": 3596, 
+                "time": 1560103212
+            }, 
+            {
+                "size_uploaded_dt": 16142213, 
+                "dt": 3599, 
+                "time": 1560106811
+            }, 
+            {
+                "size_uploaded_dt": 67794393, 
+                "dt": 3602, 
+                "time": 1560110413
+            }, 
+            {
+                "size_uploaded_dt": 94691546, 
+                "dt": 3599, 
+                "time": 1560114012
+            }, 
+            {
+                "size_uploaded_dt": 104728168, 
+                "dt": 3600, 
+                "time": 1560117612
+            }, 
+            {
+                "size_uploaded_dt": 106329484, 
+                "dt": 3599, 
+                "time": 1560121211
+            }, 
+            {
+                "size_uploaded_dt": 111970632, 
+                "dt": 3601, 
+                "time": 1560124812
+            }, 
+            {
+                "size_uploaded_dt": 72035812, 
+                "dt": 3600, 
+                "time": 1560128412
+            }, 
+            {
+                "size_uploaded_dt": 75812336, 
+                "dt": 3603, 
+                "time": 1560132015
+            }, 
+            {
+                "size_uploaded_dt": 1820067, 
+                "dt": 3600, 
+                "time": 1560135615
+            }, 
+            {
+                "size_uploaded_dt": 3286098, 
+                "dt": 3596, 
+                "time": 1560139211
+            }, 
+            {
+                "size_uploaded_dt": 655880, 
+                "dt": 3606, 
+                "time": 1560142817
+            }, 
+            {
+                "size_uploaded_dt": 19446842, 
+                "dt": 3596, 
+                "time": 1560146413
+            }, 
+            {
+                "size_uploaded_dt": 28708962, 
+                "dt": 3598, 
+                "time": 1560150011
+            }, 
+            {
+                "size_uploaded_dt": 24728861, 
+                "dt": 3600, 
+                "time": 1560153611
+            }, 
+            {
+                "size_uploaded_dt": 86291397, 
+                "dt": 3600, 
+                "time": 1560157211
+            }, 
+            {
+                "size_uploaded_dt": 112710618, 
+                "dt": 3600, 
+                "time": 1560160811
+            }, 
+            {
+                "size_uploaded_dt": 95151349, 
+                "dt": 3600, 
+                "time": 1560164411
+            }, 
+            {
+                "size_uploaded_dt": 389121845, 
+                "dt": 3600, 
+                "time": 1560168011
+            }, 
+            {
+                "size_uploaded_dt": 353499993, 
+                "dt": 3600, 
+                "time": 1560171611
+            }, 
+            {
+                "size_uploaded_dt": 95334736, 
+                "dt": 3600, 
+                "time": 1560175211
+            }, 
+            {
+                "size_uploaded_dt": 43523259, 
+                "dt": 3603, 
+                "time": 1560178814
+            }
+        ]
+    }, 
+    "dbid_1400": {
+        "status": "seeding", 
+        "username": "admin", 
+        "additional": {
+            "transfer": {
+                "speed_download": 0, 
+                "speed_upload": 0, 
+                "size_downloaded": 2287617801, 
+                "downloaded_pieces": 1091, 
+                "size_uploaded": 3478534077
+            }
+        }, 
+        "title": "Arctic.2018.MULTi.1080p.HDLight.x264.AC3-EXTREME.mkv", 
+        "size": 2287617801, 
+        "now": 1560178814, 
+        "type": "bt", 
+        "id": "dbid_1400", 
+        "history": [
+            {
+                "size_uploaded_dt": 10133346, 
+                "dt": 3597, 
+                "time": 1560096011
+            }, 
+            {
+                "size_uploaded_dt": 2541535, 
+                "dt": 3596, 
+                "time": 1560103212
+            }, 
+            {
+                "size_uploaded_dt": 24131987, 
+                "dt": 3599, 
+                "time": 1560106811
+            }, 
+            {
+                "size_uploaded_dt": 955423, 
+                "dt": 3602, 
+                "time": 1560110413
+            }, 
+            {
+                "size_uploaded_dt": 55405463, 
+                "dt": 3600, 
+                "time": 1560128412
+            }, 
+            {
+                "size_uploaded_dt": 1073948, 
+                "dt": 3600, 
+                "time": 1560160811
+            }, 
+            {
+                "size_uploaded_dt": 28186443, 
+                "dt": 3600, 
+                "time": 1560175211
+            }
+        ]
+    }, 
+    "dbid_1401": {
+        "status": "seeding", 
+        "username": "admin", 
+        "additional": {
+            "transfer": {
+                "speed_download": 0, 
+                "speed_upload": 0, 
+                "size_downloaded": 3578115548, 
+                "downloaded_pieces": 854, 
+                "size_uploaded": 2010288403
+            }
+        }, 
+        "title": "The.Spy.Gone.North.2018.MULTi.1080p.HDLight.x264.AC3-TOXIC.mkv", 
+        "size": 3578115548, 
+        "now": 1560178814, 
+        "type": "bt", 
+        "id": "dbid_1401", 
+        "history": [
+            {
+                "size_uploaded_dt": 1491961, 
+                "dt": 3599, 
+                "time": 1560009611
+            }, 
+            {
+                "size_uploaded_dt": 1698232, 
+                "dt": 3597, 
+                "time": 1560042011
+            }, 
+            {
+                "size_uploaded_dt": 129536, 
+                "dt": 3602, 
+                "time": 1560045613
+            }, 
+            {
+                "size_uploaded_dt": 27169829, 
+                "dt": 3601, 
+                "time": 1560092414
+            }, 
+            {
+                "size_uploaded_dt": 10772829, 
+                "dt": 3597, 
+                "time": 1560096011
+            }, 
+            {
+                "size_uploaded_dt": 25366159, 
+                "dt": 3605, 
+                "time": 1560099616
+            }, 
+            {
+                "size_uploaded_dt": 5099467, 
+                "dt": 3596, 
+                "time": 1560103212
+            }, 
+            {
+                "size_uploaded_dt": 3705722, 
+                "dt": 3599, 
+                "time": 1560106811
+            }, 
+            {
+                "size_uploaded_dt": 6873343, 
+                "dt": 3602, 
+                "time": 1560110413
+            }, 
+            {
+                "size_uploaded_dt": 6686976, 
+                "dt": 3599, 
+                "time": 1560114012
+            }, 
+            {
+                "size_uploaded_dt": 8592028, 
+                "dt": 3600, 
+                "time": 1560117612
+            }, 
+            {
+                "size_uploaded_dt": 639483, 
+                "dt": 3600, 
+                "time": 1560160811
+            }
+        ]
+    }
+}

@@ -1,0 +1,50 @@
+<!doctype html>
+<title>Statistique pour DownloadStation</title>
+<link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+<script type="text/javascript" src="{{url_for('static', filename = 'dygraph-combined-dev.js')}}"></script>
+<script type="text/javascript" src="{{url_for('static', filename = 'dygraphs_barChartPlotter.js')}}"></script>
+{% if history %}
+<body>
+  <header>
+    <h1>Total des uploads</h1>
+    <p>Nb de taches en cours : {{nb_tasks}}</p>
+    <p>Total size : {{humanfriendly.format_size(total_size)}}</p>
+    <h2>Quantités uploadées : </h2>
+    <form method="post" action="{{url_for('total')}}">
+      <p>
+        <input type = "radio" name = "period" id = "hour" value = "hour" {{("","checked")[period != "day"]}}/><label for "hour">Heure</label><br/>
+        <input type = "radio" name = "period" id = "day" value = "day" {{("","checked")[period=="day"]}}/><label for "day">Jour</label><br/>
+      </p>
+      <p><input type=submit value=update></p>
+    </form>
+    <div id="legende"></div>
+  </header>
+  <section>
+    <div id = "graphe"></div>
+  </section>
+</body>
+  <script language="javascript" type="text/javascript">
+		g = new Dygraph(document.getElementById("graphe"),
+			 [
+         {% for time in sorted(history) %}
+         [ new Date({{time*1000}}),{% for size in history[time] %} {{size//1000000}}, {% endfor %}],
+         {% endfor %}
+        ],
+			 {
+				 labels: ["Date",
+            {% for task in tasks%}
+              "{{task}}",
+            {% endfor %}
+            ],
+         //labelsDiv :"legende",
+         hideOverlayOnMouseOut  : false,
+         labelsShowZeroValues : false,
+         labelsSeparateLines  : true,
+				 animatedZooms: true,
+         plotter: barChartPlotter,
+         title: "Historique"
+			 });
+	</script>
+{% else %}
+  <p>No datas!!</p>
+{% endif %}

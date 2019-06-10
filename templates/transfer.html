@@ -1,0 +1,31 @@
+<!doctype html>
+<title>Statistique pour DownloadStation</title>
+<link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+<script type="text/javascript" src="{{url_for('static', filename = 'dygraph-combined-dev.js')}}"></script>
+<script type="text/javascript" src="{{url_for('static', filename = 'dygraphs_barChartPlotter.js')}}"></script>
+{% if data %}
+  <h1>{{data.title}}</h1>
+  <p>Status : {{data.status}}</p>
+  <p>Size : {{humanfriendly.format_size(data.size)}}</p>
+  <p>Total uploaded : {{humanfriendly.format_size(data.additional.transfer.size_uploaded)}}</p>
+  <div id = "graphe"></div>
+  <script language="javascript" type="text/javascript">
+		g = new Dygraph(document.getElementById("graphe"),
+			 [
+         {% for point in data.history %}
+            {% if point.time and point.size_uploaded_dt>0 %}
+         [ new Date({{point.time*1000}}),{{point.size_uploaded_dt//1000000}}],
+            {% endif %}
+          {% endfor %}
+        ],
+			 {
+				 labels: ["Date", "Size (KB)"],
+				 legend: 'always',
+				 animatedZooms: true,
+         plotter: barChartPlotter,
+         title: "Historique"
+			 });
+	</script>
+{% else %}
+  <p>No datas!!</p>
+{% endif %}
