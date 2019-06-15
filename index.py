@@ -22,10 +22,12 @@ def read_file(jsonfile_name):
         datas = {}
     return datas
 
+
 @app.route('/')
 def index():
     datas = read_file(jsonfile_name)
-    return render_template('index.html', datas = datas, iteritems = iteritems)
+    sorted_id = sorted(datas.keys(), key=lambda id:datas[id]["title"])
+    return render_template('index.html', datas = datas, sorted_id = sorted_id)
 
 '''
 @app.route('/total')

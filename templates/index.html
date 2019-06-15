@@ -6,9 +6,9 @@
   <h2>Total</h2>
   <a href="/total">Historique total</a>
   <h2>Liste des transferts en cours:</h2>
-  {% for id, data in iteritems(datas) %}
+  {% for id in sorted_id %}
   <p>
-    <a href="/task/{{ id }}">{{ data.title }}</a>
+    <a href="/task/{{ id }}">{{ datas[id]["title"] }}</a>
   </p>
   {% endfor %}
 {% else %}
