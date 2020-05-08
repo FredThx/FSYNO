@@ -22,7 +22,13 @@ A linux environment with python 3 installed.
 
 ### Installing
 
-#### stat_upload.py
+#### stat_upload.py (python2)
+
+synopy : python librairie to use DownloadStation API (https://pypi.org/project/synopy/)
+
+```
+sudo pip install synopy
+```
 
 use crontab to execute the script to store upload Statistique every hour
 
@@ -31,25 +37,31 @@ sudo crontab -e -u root
 add 00 * * * * python #your_path#/stat_upload.py #your path#/ds.json
 ```
 
-#### web server
+#### web server (python3)
 
 synopy : python librairie to use DownloadStation API (https://pypi.org/project/synopy/)
 
 ```
-pip3 install synopy
+sudo pip3 install synopy
 ```
 
 humanfriendly
 
 ```
-pip3 ibnstall humanfriendly
+sudo pip3 install humanfriendly
+```
+
+Flask
+
+```
+sudo pip3 install flask
 ```
 
 Copy this folder where you want
 Change
 * fsyno.service
 * fsyno.sh
-with the good paths
+with the good paths et port
 
 Enable the service server :
 

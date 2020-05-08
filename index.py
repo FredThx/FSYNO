@@ -89,4 +89,11 @@ def total():
 
 
 if __name__ == "__main__":
-    app.run(host='0.0.0.0', port=80, debug=True)
+    import argparse
+    parser = argparse.ArgumentParser(
+            prog='python index.py',
+            description = 'A web server for FSYNO',
+            epilog = 'Please visit https://github.com/FredThx/FSYNO to see more.')
+    parser.add_argument("-p","--port", help="SMTP port (default=80)", action="store", default = 80)
+    args = parser.parse_args()
+    app.run(host='0.0.0.0', port=args.port, debug=True)
